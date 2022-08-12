@@ -6,9 +6,9 @@ Room URL - https://tryhackme.com/room/ice
 
 ## Note
 
-This Writeup won't be having the tryhackme answers completely since i have made this just for the Refernce !!
+### This Writeup won't be having the tryhackme answers !!
 
-Take this as Reference and enjoy yourself inside the room..
+### Take this as Reference and enjoy yourself inside the room..
 
 
 ## Tools Used : nmap 👁️ Msfconsole😈
